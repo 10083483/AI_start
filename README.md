@@ -1,7 +1,7 @@
 # AI_start 인공지능 기본
 
 ### 나의 홈페이지
-  * 나의 홈페이지 주소 :https://github.com/10083483/AI_start
+  * 나의 홈페이지 주소 :https://10083483.github.io/AI_start/
 
 
 ### 시각화 프로젝트 
