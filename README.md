@@ -1,7 +1,8 @@
 # AI_start 인공지능 기본
 
 ### 나의 홈페이지
-  * 나의 홈페이지 주소 : ____
+  * 나의 홈페이지 주소 :https://10083483.github.io/AI_start/
+
 
 ### 시각화 프로젝트 
   * IRIS 데이터 분석해 보기 - [LINK](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
